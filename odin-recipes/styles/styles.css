@@ -1,0 +1,35 @@
+html{
+    background-color:#243545;
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body{
+    display:grid;
+    justify-content: center;
+    justify-items: center;
+}
+h1{
+    margin:3rem;
+}
+.title{
+    display:flex;
+    padding: 40px;
+    background-color: #00000050;
+    border-radius: 50px;
+}
+.description{
+    width:400px;
+    margin:20px;
+    margin-top:0px;
+    padding: 40px;
+}
+.ingredients{
+    display: flex;
+    align-items: center;
+    margin:40px;
+}
+img{
+    width:50%;
+    border-radius: 20px;
+
+}
